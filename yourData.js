@@ -4,13 +4,13 @@ export default {
 
   //   Header Details ---------------------
   name: "chetan",
-  headerTaglineOne: "Hello 👋",
-  headerTaglineTwo: "I'm Chetan Verma - curious",
-  headerTaglineThree: "designer and devloper",
-  headerTaglineFour: " based in New Delhi, India.",
+  headerTaglineOne: "Welcome I am",
+  headerTaglineTwo: "Nathan Holden",
+  headerTaglineThree: "Programmer and student",
+  headerTaglineFour: " based in Belfast, Ireland.",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
+    { title: "Github", link: "https://github.com/nholdenn" },
     { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
     { title: "Twitter", link: "https://twitter.com/realchetanverma" },
     { title: "Blog", link: "https://blog.chetanverma.com/" },
@@ -22,22 +22,22 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
-      description: "Web Design",
+      title: "Moon", //Project Title - Add Your Project Title Here
+      description: "Cool moon image",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://cdn.mos.cms.futurecdn.net/snbrHBRigvvzjxNGuUtcck.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://en.wikipedia.org/wiki/Moon",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
-      description: "Web Development",
+      title: "Sun", //Project Title - Add Your Project Title Here
+      description: "Cool sun image",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/07/SolarFull_SeanDoran_2880FullwidthLede.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://en.wikipedia.org/wiki/Sun",
     },
     {
       title: "Project Three", //Project Title - Add Your Project Title Here
